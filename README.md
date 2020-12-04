@@ -19,4 +19,4 @@ https://guillemollar.github.io/infovis/mom_w46.html
 
 https://guillemollar.github.io/infovis/mom_w44.html
 
-https://guillemollar.github.io/infovis/Visualizac_TP_final.html
+https://guillemollar.github.io/infovis/TP_final_conexiones.html
